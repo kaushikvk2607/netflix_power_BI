@@ -31,3 +31,10 @@
   <li>Delivered actionable insights to identify top genres, popular countries and rating trends</li>
 </ul>
 
+<h3>📂 Dataset</h3>
+<ul>
+  <li>Dataset used: <b>Netflix Movies and TV Shows</b></li>
+  <li>Source: <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows" target="_blank">Kaggle Netflix Dataset</a></li>
+  <li>Contains details of 8,800+ titles including <i>ratings, genres, release year, and country</i>.</li>
+</ul>
+
