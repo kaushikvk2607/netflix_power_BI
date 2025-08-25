@@ -38,3 +38,10 @@
   <li>Contains details of 8,800+ titles including <i>ratings, genres, release year, and country</i>.</li>
 </ul>
 
+
+<h3>🚀 How to Use</h3>
+<ol>
+  <li>Clone this repository to your local system.</li>
+  <li>Open the <code>Netflix_Dashboard.pbix</code> file in <b>Power BI Desktop</b>.</li>
+  <li>Explore the interactive dashboards, apply filters, and analyze Netflix content trends.</li>
+</ol>
