@@ -15,3 +15,10 @@
   <li><b>Trends:</b> Year-wise releases with notable growth post-2015</li>
 </ul>
 
+<h3>🛠 Tools</h3>
+<ul>
+  <li><b>Power BI</b> for interactive dashboard & data visualization</li>
+  <li><b>DAX & Power Query</b> for KPI calculations and data transformation</li>
+  <li><b>Excel/CSV Dataset</b> containing 8,800+ Netflix titles</li>
+</ul>
+
