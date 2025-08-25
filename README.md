@@ -22,3 +22,12 @@
   <li><b>Excel/CSV Dataset</b> containing 8,800+ Netflix titles</li>
 </ul>
 
+<h3>📝 Features</h3>
+<ul>
+  <li>Analyzed 8,800+ Netflix titles across genres, ratings, countries and release years</li>
+  <li>Designed an interactive Power BI dashboard with dynamic filters & drill-down analytics</li>
+  <li>Calculated KPIs to uncover viewing trends and content distribution insights</li>
+  <li>Visualized growth patterns of Netflix content over time</li>
+  <li>Delivered actionable insights to identify top genres, popular countries and rating trends</li>
+</ul>
+
